@@ -1,0 +1,19 @@
+a=10
+b=20
+numbers=[10,20,30,40,"abc",[3,4,5]]
+marks=[600,7,-9]
+print(numbers+marks)
+print(marks*3)
+marks.append(90)
+print(marks)
+marks.extend([100,101])
+print(marks)
+marks.pop(0)
+print(marks)
+marks.reverse()
+print(marks)
+marks.sort()
+print(marks)
+print(len(numbers))
+del marks[2]
+print(marks)
