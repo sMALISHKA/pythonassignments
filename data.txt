@@ -1,0 +1,3 @@
+Python file handling:
+writting data into the filePython file handling append:
+writting data into the file append
